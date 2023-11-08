@@ -4,13 +4,10 @@
   <h2 align="center">Next.js App To Display Github Users</h2>  
 </div>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
 This project is built upon Next.js. Tech used: React, Next.js and Typescript
 
 Given below is the functionality:
-* Search Github Username and get the result of all users matching the search.
+* Search GitHub Username and get the result of all users matching the search.
 * Display of user information and repositories.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
