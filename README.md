@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <h3 align="center">Next.js App To Display Github Users</h3>  
+  <h2 align="center">Next.js App To Display Github Users</h2>  
 </div>
 
 <!-- ABOUT THE PROJECT -->
