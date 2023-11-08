@@ -10,8 +10,6 @@ Given below is the functionality:
 * Search GitHub Username and get the result of all users matching the search.
 * Display of user information and repositories.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 To install and run on the local machine:
 1. Clone the repo
    ```sh
